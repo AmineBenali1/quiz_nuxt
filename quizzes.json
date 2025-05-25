@@ -1,0 +1,232 @@
+{
+  "quizzes": [
+    {
+      "id": "2",
+      "title": "Science and Nature",
+      "difficulty": "hard",
+      "questions": [
+        {
+          "question": "the chemical symbol for gold?",
+          "answers": [
+            "Gd",
+            "Ag",
+            "Au",
+            "Go"
+          ],
+          "correct_answer": "Au"
+        },
+        {
+          "question": "How many bones are in the adult human body?",
+          "answers": [
+            "198",
+            "206",
+            "208",
+            "210"
+          ],
+          "correct_answer": "206"
+        },
+        {
+          "question": "What gas do plants use for photosynthesis?",
+          "answers": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Helium"
+          ],
+          "correct_answer": "Carbon Dioxide"
+        },
+        {
+          "question": "What planet is closest to the Sun?",
+          "answers": [
+            "Venus",
+            "Earth",
+            "Mercury",
+            "Mars"
+          ],
+          "correct_answer": "Mercury"
+        },
+        {
+          "question": "What part of the cell contains DNA?",
+          "answers": [
+            "Mitochondria",
+            "Cytoplasm",
+            "Nucleus",
+            "Ribosome"
+          ],
+          "correct_answer": "Nucleus"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Math & Logic",
+      "difficulty": "mid",
+      "questions": [
+        {
+          "question": "What is the square root of 144?",
+          "answers": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correct_answer": "12"
+        },
+        {
+          "question": "Solve: 15 + 6 × 2",
+          "answers": [
+            "42",
+            "27",
+            "36",
+            "21"
+          ],
+          "correct_answer": "27"
+        },
+        {
+          "question": "What is the value of Pi (π) to 2 decimal places?",
+          "answers": [
+            "3.12",
+            "3.14",
+            "3.16",
+            "3.18"
+          ],
+          "correct_answer": "3.14"
+        },
+        {
+          "question": "How many degrees are in a triangle?",
+          "answers": [
+            "90",
+            "180",
+            "270",
+            "360"
+          ],
+          "correct_answer": "180"
+        },
+        {
+          "question": "What is 2 to the power of 5?",
+          "answers": [
+            "16",
+            "32",
+            "64",
+            "128"
+          ],
+          "correct_answer": "32"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "History & Politics",
+      "difficulty": "hard",
+      "questions": [
+        {
+          "question": "Who was the first President of the United States?",
+          "answers": [
+            "Abraham Lincoln",
+            "George Washington",
+            "John Adams",
+            "Thomas Jefferson"
+          ],
+          "correct_answer": "George Washington"
+        },
+        {
+          "question": "In what year did World War II end?",
+          "answers": [
+            "1940",
+            "1942",
+            "1945",
+            "1950"
+          ],
+          "correct_answer": "1945"
+        },
+        {
+          "question": "Which empire was ruled by Julius Caesar?",
+          "answers": [
+            "Ottoman",
+            "Roman",
+            "Greek",
+            "Persian"
+          ],
+          "correct_answer": "Roman"
+        },
+        {
+          "question": "The Cold War was primarily between the USA and which other country?",
+          "answers": [
+            "Germany",
+            "Japan",
+            "USSR",
+            "China"
+          ],
+          "correct_answer": "USSR"
+        },
+        {
+          "question": "Who wrote The Communist Manifesto?",
+          "answers": [
+            "Karl Marx",
+            "Lenin",
+            "Stalin",
+            "Engels"
+          ],
+          "correct_answer": "Karl Marx"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Technology & Computing",
+      "difficulty": "hard",
+      "questions": [
+        {
+          "question": "Who is known as the father of the computer?",
+          "answers": [
+            "Alan Turing",
+            "Charles Babbage",
+            "Bill Gates",
+            "Tim Berners-Lee"
+          ],
+          "correct_answer": "Charles Babbage"
+        },
+        {
+          "question": "What does HTTP stand for?",
+          "answers": [
+            "HyperText Transfer Protocol",
+            "High Transmission Text Protocol",
+            "HyperTerminal Transfer Process",
+            "Host Transfer Type Protocol"
+          ],
+          "correct_answer": "HyperText Transfer Protocol"
+        },
+        {
+          "question": "Which company developed the Android operating system?",
+          "answers": [
+            "Apple",
+            "Google",
+            "Microsoft",
+            "Samsung"
+          ],
+          "correct_answer": "Google"
+        },
+        {
+          "question": "What is the binary value of the decimal number 10?",
+          "answers": [
+            "1010",
+            "1001",
+            "1100",
+            "1111"
+          ],
+          "correct_answer": "1010"
+        },
+        {
+          "question": "What does CPU stand for?",
+          "answers": [
+            "Central Processing Unit",
+            "Control Processing Unit",
+            "Computer Processing Unit",
+            "Central Program Unit"
+          ],
+          "correct_answer": "Central Processing Unit"
+        }
+      ]
+    }
+  ]
+}
