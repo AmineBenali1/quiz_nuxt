@@ -73,3 +73,14 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+#install scoop 
+
+powershell -Command "Set-ExecutionPolicy RemoteSigned -scope CurrentUser"
+powershell -Command "iwr -useb get.scoop.sh | iex"
+
+#then install tgpt
+scoop install https://raw.githubusercontent.com/aandrew-me/tgpt/main/tgpt.json
+
+#use
+type [file] | tgpt "to do"
